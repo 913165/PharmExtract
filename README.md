@@ -49,7 +49,7 @@ source venv/bin/activate
 ```bash
 source venv/bin/activate
 export KEY=your_gemini_api_key_here
-python app.py
+python main.py
 ```
 
 Access at: http://localhost:7870
